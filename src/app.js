@@ -154,7 +154,7 @@ export default function App() {
           </span>
         );
       })}
-      <h2>Also visit my portfolio <a href="https://arpitpatni.netlify.app/">Arpit</a> </h2>
+      <h2>Also visit my portfolio <a href="https://yashodaagarwal.netlify.app/">Yashoda</a> </h2>
     </div>
   );
 }
