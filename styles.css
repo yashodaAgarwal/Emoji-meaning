@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap");
+
+.App {
+  font-family: "Fjalla One", sans-serif;
+  text-align: center;
+}
+input {
+  padding: 1rem;
+  width: 20%;
+  display: block;
+  margin: auto;
+  border-radius: 2rem;
+  border-color: black;
+}
+body {
+  background-color: #f59e0b;
+  font-family: "Fjalla One", sans-serif;
+}
